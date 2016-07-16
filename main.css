@@ -17,15 +17,7 @@ body {
 	animation: un 1s steps(7) infinite;
 }
 
-.sprite2
-{
-	background: url(aegis.png);
-	margin: 100px 50px;
-	width: 161px;
-	height: 160px;
-	display: block;
-	background-position: -20 -2386px;
-}
+
 
 @keyframes un
 {
